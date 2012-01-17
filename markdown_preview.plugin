@@ -1,0 +1,12 @@
+[Plugin]
+Loader=python
+Module=markdown_preview
+IAge=3
+
+Name=Markdown Preview
+
+Description=Show a preview of current markdown text in a new browser window.
+
+Authors=Nemec
+Copyright=GPLv2
+
