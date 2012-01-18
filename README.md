@@ -26,3 +26,10 @@ Installation
 1. Run install.sh to install plugin files.
 2. Restart Gedit, then go to Edit->Preferences->Plugins and check the box next
   to `Markdown Preview`.
+
+
+```
+
+  print "hello"
+
+```

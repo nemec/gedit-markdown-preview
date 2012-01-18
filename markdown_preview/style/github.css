@@ -1,0 +1,61 @@
+.codehilite .bp { color:#999 }
+.codehilite .c { color:#998; font-style:italic }
+.codehilite .err { color:#a61717; background-color:#e3d2d2 }
+.codehilite .c1 { color:#998; font-style:italic }
+.codehilite .cm { color:#998; font-style:italic }
+.codehilite .cp { color:#999; font-weight:bold }
+.codehilite .cs { color:#999; font-weight:bold; font-style:italic }
+.codehilite .gd { color:#000; background-color:#fdd }
+.codehilite .ge { font-style:italic }
+.codehilite .gh { color:#999 }
+.codehilite .gi { color:#000; background-color:#dfd }
+.codehilite .go { color:#888 }
+.codehilite .gp { color:#555 }
+.codehilite .gr { color:#a00 }
+.codehilite .gs { font-weight:bold }
+.codehilite .gt { color:#a00 }
+.codehilite .gu { color:#800080; font-weight:bold }
+.codehilite .hll  {  background-color: #ffffcc }
+.codehilite .il { color:#099 }
+.codehilite .kc { font-weight:bold }
+.codehilite .kd { font-weight:bold }
+.codehilite  .k { font-weight:bold }
+.codehilite .kn { font-weight:bold }
+.codehilite .kp { font-weight:bold }
+.codehilite .kr { font-weight:bold }
+.codehilite .kt { color:#458; font-weight:bold }
+.codehilite .m { color:#099 }
+.codehilite .mf { color:#099 }
+.codehilite .mh { color:#099 }
+.codehilite .mi { color:#099 }
+.codehilite .mo { color:#099 }
+.codehilite .na { color:#008080 }
+.codehilite .nb { color:#0086B3 }
+.codehilite .nc { color:#458; font-weight:bold }
+.codehilite .nd { color:#900; font-weight:bold }
+.codehilite .nf { color:#900; font-weight:bold }
+.codehilite .ni { color:#800080 }
+.codehilite .nn { color:#555 }
+.codehilite .no { color:#008080 }
+.codehilite .nt { color:#000080 }
+.codehilite .nv { color:#008080 }
+.codehilite .ow { font-weight:bold }
+/*.codehilite { padding:5px; background:#f8f8ff; border:1px solid #d4d4e3 }*/
+.codehilite .s1 { color:#d14 }
+.codehilite .s2 { color:#d14 }
+.codehilite .sb { color:#d14 }
+.codehilite .sc { color:#A31515 }
+/*.codehilite .sc { color:#d14 }*/
+.codehilite .s { color:#d14 }
+.codehilite .sd { color:#d14 }
+.codehilite .se { color:#d14 }
+.codehilite .sh { color:#d14 }
+.codehilite .si { color:#d14 }
+.codehilite .sr { color:#009926 }
+.codehilite .ss { color:#990073 }
+.codehilite .sx { color:#d14 }
+.codehilite .vc { color:#008080 }
+.codehilite .vg { color:#008080 }
+.codehilite .vi { color:#008080 }
+.codehilite .w { color:#bbb }
+

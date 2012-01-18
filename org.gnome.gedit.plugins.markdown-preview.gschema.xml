@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.gedit.plugins.markdown-preview"
+      path="/org/gnome/gedit/plugins/markdown-preview/">
+    <key type="s" name="code-theme">
+      <choices>
+        <choice value='autumn' />
+        <choice value='borland' />
+        <choice value='bw' />
+        <choice value='colorful' />
+        <choice value='default' />
+        <choice value='emacs' />
+        <choice value='friendly' />
+        <choice value='fruity' />
+        <choice value='github' />
+        <choice value='manni' />
+        <choice value='murphy' />
+        <choice value='native' />
+        <choice value='pastie' />
+        <choice value='perldoc' />
+        <choice value='tango' />
+        <choice value='trac' />
+        <choice value='vim' />
+        <choice value='vs' />
+      </choices>
+      <aliases>
+        <alias value='Autumn' target='autumn' />
+        <alias value='Borland' target='borland' />
+        <alias value='Black/white' target='bw' />
+        <alias value='Colorful' target='colorful' />
+        <alias value='Default' target='default' />
+        <alias value='Emacs' target='emacs' />
+        <alias value='Friendly' target='friendly' />
+        <alias value='Fruity' target='fruity' />
+        <alias value='Github' target='github' />
+        <alias value='Manni' target='manni' />
+        <alias value='Murphy' target='murphy' />
+        <alias value='Native' target='native' />
+        <alias value='Pastie' target='pastie' />
+        <alias value='Perldoc' target='perldoc' />
+        <alias value='Tango' target='tango' />
+        <alias value='Trac' target='trac' />
+        <alias value='Vim' target='vim' />
+        <alias value='Visual Studio' target='vs' />
+      </aliases>
+      <default>'github'</default>
+      <summary>Code Theme</summary>
+      <description>CSS theme for code syntax highlighting.</description>
+    </key>
+    <key type="i" name="local-port">
+      <default>9019</default>
+      <summary>Local Port</summary>
+      <description>Local port to run preview server.</description>
+    </key>
+    <key type="b" name="randomize-port">
+      <default>true</default>
+      <summary>Randomize Port If In Use</summary>
+      <description>If port is in use, retry with random port.</description>
+    </key>
+  </schema>
+</schemalist>
