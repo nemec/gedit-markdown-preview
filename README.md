@@ -16,9 +16,11 @@ Usage
 
 * Hit Ctrl+Shift+D to display the current Gedit document as Markdown in
   your default web browser.
-* Connects to port 8000 by default (configuration is a planned feature)
+* Connects to port 9019 by default (but can be configured)
 * HTTP path is the file:// uri to the open file you wish to display (Markdown
   file must be open in Gedit to display it)
+* In the configuration, you can set the code syntax highlighting theme
+  as well.
 
 Installation
 ============
@@ -26,10 +28,3 @@ Installation
 1. Run install.sh to install plugin files.
 2. Restart Gedit, then go to Edit->Preferences->Plugins and check the box next
   to `Markdown Preview`.
-
-
-```
-
-  print "hello"
-
-```
