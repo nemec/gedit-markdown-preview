@@ -11,6 +11,9 @@ it out. This plugin uses python-markdown to automatically convert the
 current document to markdown HTML (using standard markdown) and display
 a preview automatically in the browser.
 
+This plugin sets up an HTTP server to serve requests for open Gedit
+documents.
+
 Usage
 ========
 
@@ -25,6 +28,9 @@ Usage
 Installation
 ============
 
-1. Run install.sh to install plugin files.
-2. Restart Gedit, then go to Edit->Preferences->Plugins and check the box next
+1. Install Python-Markdown. The recommended source is
+  [Github](https://github.com/waylan/Python-Markdown), but previous versions
+  may be installed through apt (python-markdown) or easy_install (Markdown).
+2. Run install.sh to install plugin files.
+3. Restart Gedit, then go to Edit->Preferences->Plugins and check the box next
   to `Markdown Preview`.
